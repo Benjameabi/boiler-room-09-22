@@ -1,3 +1,9 @@
+
+section p{
+  color:red;
+  font-size: larger;
+}
+
 .navbar {
     position: sticky;
     display: flex;
